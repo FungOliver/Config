@@ -1,0 +1,5 @@
+:imap jk <Esc>
+:imap kj <Esc>
+:imap <C-a> <C-y>
+
+:set number relativenumber
