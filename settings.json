@@ -33,15 +33,14 @@
     },
 
     
-    "C_Cpp.updateChannel": "Insiders",
     "grunt.autoDetect": "on",
     "gulp.autoDetect": "on",
     "jake.autoDetect": "on",
-    "workbench.editorAssociations": {
-      "*.ipynb": "jupyter.notebook.ipynb"
-    },
     "workbench.editor.enablePreview": false,
     "latex-workshop.latex.autoBuild.run": "onSave",
-    "latex-workshop.view.pdf.viewer": "tab"
+    "latex-workshop.view.pdf.viewer": "tab",
+
+    "remote.SSH.showLoginTerminal": true,
+    "remote.SSH.useLocalServer": false
 
 }
